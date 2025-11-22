@@ -566,6 +566,7 @@ class _ProductCardState extends State<ProductCard> {
                //navigationn
                //pubsec
                //ppp
+               //final 
             ),
           ),
         ],
