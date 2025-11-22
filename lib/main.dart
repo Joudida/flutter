@@ -552,12 +552,7 @@ class _ProductCardState extends State<ProductCard> {
               child: Icon(Icons.add_shopping_cart,
                   color: Colors.white, size: 18),
 
-                  //test
-                  //scaffold
-                  //categories
-                  //ui
-                  //static
-                  //product
+               //grid
             ),
           ),
         ],
