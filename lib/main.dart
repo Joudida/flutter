@@ -562,6 +562,7 @@ class _ProductCardState extends State<ProductCard> {
                //stars
                //buton 
                //slide
+               //stylee
             ),
           ),
         ],
