@@ -563,6 +563,7 @@ class _ProductCardState extends State<ProductCard> {
                //buton 
                //slide
                //stylee
+               //navigationn
             ),
           ),
         ],
