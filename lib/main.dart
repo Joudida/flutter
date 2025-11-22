@@ -553,6 +553,7 @@ class _ProductCardState extends State<ProductCard> {
                   color: Colors.white, size: 18),
 
                   //test
+                  //scaffold
             ),
           ),
         ],
