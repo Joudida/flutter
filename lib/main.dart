@@ -561,6 +561,7 @@ class _ProductCardState extends State<ProductCard> {
                //price
                //stars
                //buton 
+               //slide
             ),
           ),
         ],
