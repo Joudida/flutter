@@ -554,6 +554,7 @@ class _ProductCardState extends State<ProductCard> {
 
                   //test
                   //scaffold
+                  //categories
             ),
           ),
         ],
