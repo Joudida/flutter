@@ -556,6 +556,7 @@ class _ProductCardState extends State<ProductCard> {
                   //scaffold
                   //categories
                   //ui
+                  //static
             ),
           ),
         ],
