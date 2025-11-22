@@ -558,6 +558,7 @@ class _ProductCardState extends State<ProductCard> {
                //wishlist
                //best seller
                //title
+               //price
                //stars
             ),
           ),
